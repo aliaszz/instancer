@@ -1,0 +1,13 @@
+{
+  "name": "instancer",
+  "version": "1.5.0",
+  "description": "a small function of a few lines of code, combined with all methods after instantiation.",
+  "keywords": [
+    "util",
+    "functional"
+  ],
+  "author": "a-jie <ajiemath@gmail.com>",
+  "main": "index.js",
+  "devDependencies": {},
+  "license": "MIT"
+}
